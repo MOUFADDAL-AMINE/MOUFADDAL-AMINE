@@ -1,218 +1,342 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Technical Lead at <a href="#">######
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h2>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  Salut 👋🏻, I'm Amine Moufaddal!
+</h2>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
-<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### 📫 Like to meet me?
+<p>
+  <em>
+    Full-Stack Developer | Web Application Developer
+    <br/>
+    Based in Casablanca, Morocco 🇲🇦
+  </em>
+</p>
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amine%20Moufaddal-blue?style=flat-square\&logo=linkedin\&logoColor=white)](#)
+[![GitHub followers](https://img.shields.io/github/followers/TON_USERNAME?label=Follow\&style=social)](https://github.com/TON_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-46a2f1.svg?style=flat-square\&logo=Google-Chrome\&logoColor=white)](#)
 
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+---
 
-👇 Hit in your console or terminal to connect with me.
+### 👨‍💻 About Me
 
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+I'm **Amine Moufaddal**, a Full-Stack Developer currently studying Digital Development at **ISGI / OFPPT in Casablanca**.
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+I enjoy building complete web applications, from database design and backend development to responsive interfaces and administration dashboards.
+
+I'm particularly interested in:
+
+* 🌐 Full-Stack Web Development
+* ⚙️ Backend Development
+* 🗄️ Database Design
+* 📊 Management & ERP Systems
+* 🎨 Modern User Interfaces
+* 🚀 Project Architecture
+* 🔧 Problem Solving
+* 📱 Responsive Web Applications
+
+I like understanding a project from the **idea and requirements to the final implementation**.
+
+---
+
+### 🧑‍💻 A little more about me...
 
 ```javascript
-const anmol = {
-  name: "Anmol Pratap Singh",
-  pronouns: ["he", "him"],
-  languages: ["TypeScript", "JavaScript", "Python", "Dart"],
-  askMeAbout: [
-    "web development",
-    "mobile app development",
-    "cloud architecture",
-    "generative AI",
-    "agentic systems",
-    "SaaS products",
-    "system design"
+const amine = {
+  name: "Amine Moufaddal",
+  location: "Casablanca, Morocco 🇲🇦",
+
+  education: {
+    school: "ISGI / OFPPT",
+    field: "Digital Development",
+    level: "Technicien Spécialisé - Bac+2"
+  },
+
+  languages: [
+    "French",
+    "Arabic",
+    "English"
   ],
 
-  technologies: {
-    frontend: {
-      frameworks: ["React", "Next.js"],
-      styling: ["Tailwind CSS", "Sass", "Bootstrap"],
-      uiLibraries: [
-        "Material UI",
-        "Ant Design",
-        "Chakra UI",
-        "shadcn/ui"
-      ]
-    },
+  programmingLanguages: [
+    "PHP",
+    "JavaScript",
+    "Python",
+    "HTML",
+    "CSS"
+  ],
 
-    backend: {
-      node: ["Node.js", "Express", "NestJS"],
-      python: ["Flask"]
-    },
+  frameworks: [
+    "Laravel",
+    "React"
+  ],
 
-    mobile: {
-      crossPlatform: ["Flutter"]
-    },
+  databases: [
+    "MySQL",
+    "MongoDB"
+  ],
 
-    devOps: {
-      tools: ["Docker", "GitHub Actions", "Nginx"],
-      practices: ["CI/CD", "Infrastructure as Code"]
-    },
+  tools: [
+    "Git",
+    "GitHub",
+    "Composer",
+    "npm",
+    "WAMP"
+  ],
 
-    cloud: {
-      aws: [
-        "EC2",
-        "S3",
-        "RDS",
-        "Lambda",
-        "Fargate",
-        "CloudWatch"
-      ],
-      gcp: [
-        "Compute Engine",
-        "Cloud Run",
-        "Cloud Functions",
-        "Cloud Storage",
-        "Firestore",
-        "BigQuery"
-      ]
-    },
+  interestedIn: [
+    "Full-Stack Development",
+    "Web Applications",
+    "ERP Systems",
+    "Project Management",
+    "Database Design",
+    "Modern UI/UX"
+  ],
 
-    databases: {
-      relational: ["PostgreSQL"],
-      nosql: ["MongoDB", "Firebase Realtime DB", "Firestore"],
-      inMemory: ["Redis"]
-    },
+  currentlyLearning: [
+    "Laravel",
+    "React",
+    "Advanced JavaScript",
+    "Software Architecture"
+  ],
 
-    realtimeAndAPIs: [
-      "REST APIs",
-      "WebSockets",
-      "Socket.IO"
-    ],
+  currentFocus:
+    "Building complete and professional web applications",
 
-    ai: {
-      generativeAI: [
-        "LLM integration",
-        "Prompt engineering",
-        "Vector databases",
-        "AI agents",
-        "Workflow automation"
-      ],
-      architectures: [
-        "agentic architecture",
-        "tool-augmented agents",
-        "multi-agent systems"
-      ],
-      models: ["OpenAI", "Gemini", "Llama"]
-    }
-  },
-
-  architecture: {
-    frontend: ["SPA", "SSR"],
-    backend: ["monolith", "microservices", "serverless"],
-    cloudPatterns: [
-      "event-driven",
-      "agentic systems",
-      "scalable SaaS"
-    ],
-    data: ["relational", "nosql", "in-memory"]
-  },
-currentFocus:"Building scalable AI-first SaaS products with agentic architectures",
-funFact: "Most bugs disappear after a coffee and a clean commit history"
+  funFact:
+    "I enjoy turning ideas into working projects 🚀"
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+---
+
+### 🛠️ Technologies & Tools
+
+#### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+#### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+#### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+#### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+</p>
 
 ---
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C453%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-180%20hrs%2014%20mins-blue?style=flat)
+### 🚀 Featured Projects
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-499-blue?style=flat)
+#### 🏨 EasyStay — Hotel Reservation System
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-54.89%20million%20lines%20of%20code-blue?style=flat)
+A complete academic hotel reservation platform designed to manage hotel rooms, reservations, users and reviews.
 
-**🐱 My GitHub Data** 
+**Technologies:**
 
-> 📦 394.3 kB Used in GitHub's Storage 
- > 
-> 🏆 1,693 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 27 Public Repositories 
- > 
-> 🔑 33 Private Repositories 
- > 
-**I'm a Night 🦉** 
+`PHP` `MySQL` `JavaScript` `HTML` `CSS`
+
+**Main features:**
+
+* 👤 User authentication
+* 🏨 Hotel and room management
+* 🛏️ Different room types
+* 📅 Reservation management
+* 🔄 Reservation statuses
+* ⭐ Customer reviews
+* 👨‍💼 Administration interface
+* 📊 Reservation management dashboard
+
+---
+
+#### 👥 ERP RH — Human Resources Management System
+
+A Human Resources ERP project designed to centralize employee management and improve existing HR processes.
+
+The project focuses on **enhancing an existing ERP** by adding and improving several modules.
+
+**Main modules:**
+
+* 👤 Employee management
+* 🏥 CNSS & Mutuelle
+* 📚 Careers & Training
+* 🏖️ Leave & Absence management
+* 💰 Payroll
+* 📊 HR management
+* 📄 Administrative documents
+
+**Technologies:**
+
+`Laravel` `PHP` `MySQL` `JavaScript`
+
+---
+
+#### 🚗 Car Rental Management
+
+A web application developed for managing a car rental activity.
+
+**Features include:**
+
+* 🚘 Vehicle management
+* 👤 Customer management
+* 📅 Rental management
+* 💰 Pricing
+* 📋 Rental information
+* 📊 Management interface
+
+**Technologies:**
+
+`HTML` `CSS` `JavaScript` `PHP` `MySQL`
+
+---
+
+### 📚 Currently Learning
 
 ```text
-🌞 Morning                10633 commits       █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-🌆 Daytime                15203 commits       ███████░░░░░░░░░░░░░░░░░░   28.80 % 
-🌃 Evening                19647 commits       █████████░░░░░░░░░░░░░░░░   37.22 % 
-🌙 Night                  7302 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Laravel
+   ↓
+Advanced PHP
+   ↓
+React
+   ↓
+REST APIs
+   ↓
+Software Architecture
+   ↓
+Full-Stack Applications
 ```
-📅 **I'm Most Productive on Tuesday** 
+
+I'm continuously improving my ability to build applications with clean architecture, structured databases and modern interfaces.
+
+---
+
+### 🎯 My Goals
+
+```javascript
+const goals = {
+  shortTerm: [
+    "Complete my Full-Stack Development training",
+    "Build professional projects",
+    "Gain real-world development experience"
+  ],
+
+  mediumTerm: [
+    "Continue my studies in France",
+    "Improve my software engineering skills",
+    "Work on larger applications"
+  ],
+
+  longTerm: [
+    "Become a highly skilled Full-Stack Developer",
+    "Build scalable software products",
+    "Create and manage my own projects"
+  ]
+};
+```
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+ height="180"
+/>
+
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=TON_USERNAME&theme=tokyo-night&hide_border=true"
+  />
+</p>
+
+---
+
+### 💡 What I Like Building
 
 ```text
-Monday                   9317 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Tuesday                  10764 commits       █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-Wednesday                7247 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Thursday                 5758 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Friday                   4521 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Saturday                 7589 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Sunday                   7589 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Web Applications
+        ↓
+Management Systems
+        ↓
+ERP Applications
+        ↓
+Reservation Platforms
+        ↓
+Dashboards
+        ↓
+Database-driven Applications
+        ↓
+Full-Stack Solutions
 ```
 
+---
 
-📊 **This Week I Spent My Time On** 
+### 🤝 Let's Connect
 
-```text
-🕑︎ Time Zone: Asia/Dubai
+I'm always interested in meeting developers, working on projects and learning new technologies.
 
-💬 Programming Languages: 
-No Activity Tracked This Week
+If you want to talk about:
 
-🔥 Editors: 
-No Activity Tracked This Week
+* 💻 Development
+* 🚀 Projects
+* 🧠 Technology
+* 📚 Learning
+* 🤝 Collaboration
 
-💻 Operating System: 
-No Activity Tracked This Week
-```
+feel free to reach out!
 
-🤖 **AI Coding This Week** 
+---
 
-```text
-No AI Coding Activity Tracked This Week
-```
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <br/>
+  <em><b>Thanks for visiting my profile!</b> 🚀</em>
+</p>
 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               34 repos            █████████░░░░░░░░░░░░░░░░   37.78 % 
-TypeScript               19 repos            █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-```
-
-
-
-
- Last Updated on 01/10/2026 06:04:43 UTC
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+<p align="center">
+  <b>Amine Moufaddal</b> • Full-Stack Developer 🇲🇦
+</p>
